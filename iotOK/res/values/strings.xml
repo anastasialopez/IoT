@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RFDI Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="active_button">Check inventory</string>
+    <string name="history_button">Track record</string>
+    <string name="title">Internet of Things</string>
+    <string name="desc">Imagen de portada</string>
+    <string name="title_activity_display_active_tags">Active Tags</string>
+    <string name="title_activity_display_history_active_tags">Track record</string>
+    <string name="title_activity_detail_history_tag">Details</string>
+    <string name="ts_text">Timestamp</string>
+    <string name="state_text">State</string>
+    <string name="epc">EPC</string>
+    <string name="antena1enabled">enable</string>
+    <string name="antena2enabled">enable</string>
+    <string name="antena3enabled">enable</string>
+    <string name="antena4enabled">enable</string>
+    <string name="antena1disabled">disable</string>
+    <string name="antena2disabled">disable</string>
+    <string name="antena3disabled">disable</string>
+    <string name="antena4disabled">disable</string>
+    <string name="title_activity_shelf_">Shelf_Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="check_coat">Check coat</string>
+    <string name="pickUp_coat">Pick up coat</string>
+    <string name="title_activity_pick_up_shelf_">PickUpShelf_Activity</string>
+
+</resources>
